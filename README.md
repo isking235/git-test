@@ -2,6 +2,11 @@
 
 두번째로 치면 어떻게 될까?
 
+형.. 이런 부분을 제가 수정했습니다.
+
+으하하하..
+
+
 
 Simple Single Sign-On for PHP (Ajax compatible)
 ---
