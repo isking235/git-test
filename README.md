@@ -1,5 +1,6 @@
-먼갈 더 쳐보자
+먼갈 더 쳐보긴할텐데 글자가 바꿔었다.
 
+두번째로 치면 어떻게 될까?
 
 
 Simple Single Sign-On for PHP (Ajax compatible)
